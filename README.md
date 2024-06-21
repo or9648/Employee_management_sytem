@@ -1,2 +1,2 @@
-# Hotel_management_sytem
-Its an hotel management system using C++
+# Employee_management_system
+Its an employee management system using C++
